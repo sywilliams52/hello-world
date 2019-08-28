@@ -1,2 +1,3 @@
 # hello-world
-new
+Hi,
+ My name is Sharon.  I am a programmer
